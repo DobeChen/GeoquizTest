@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Geoquiz</string>
+
+    <string name="question_text">China is a great country.</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="button_next">Next</string>
+    <string name="button_back">Back</string>
+
+    <string name="back_button_desc">This is a back button.</string>
+    <string name="next_button_desc">This is a next button.</string>
+
+    <string name="right_toast">Right</string>
+    <string name="wrong_toast">Wrong</string>
+
+    <string name="question_me">I love you.</string>
+    <string name="question_love">Love is a wonderful thing.</string>
+    <string name="question_you">You love me, too.</string>
+</resources>
