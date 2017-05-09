@@ -16,4 +16,9 @@
     <string name="question_me">I love you.</string>
     <string name="question_love">Love is a wonderful thing.</string>
     <string name="question_you">You love me, too.</string>
+
+    <string name="warning_text">Are you sure want to do this?</string>
+    <string name="button_show_answer">Show Answer</string>
+    <string name="button_cheat">CHEAT</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
 </resources>
